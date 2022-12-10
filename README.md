@@ -1,3 +1,6 @@
+<h1>Built a movies Database Platform using react, OMDB API with responsive designs, media queries 🚀🚀</h1>
+<h2>Check it out: https://movies-db-csfahad.vercel.app/🚀🚀</h2>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
